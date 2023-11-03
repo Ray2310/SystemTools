@@ -1,0 +1,11 @@
+订阅地址： https://api.ovodisk.cc/api/v1/client/subscribe?token=dc4b454630711069d2b47e31502c58df
+https://api.yun.ovodisk.com/api/v1/client/subscribe?token=dc4b454630711069d2b47e31502c58df
+
+我是ubuntu桌面版，右上角点击设置，网络，网络代理，手动，然后把http://127.0.0.1和7890分别输入进去就可以用了
+
+
+另一个教程： https://www.voidking.com/dev-linux-clash/
+
+最终有用的教程：https://opclash.com/fenxiang/302.html
+
+
